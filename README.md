@@ -1,2 +1,11 @@
 # GitHubApp
-Aplicativo em React para exibir o perfil do GitHub do usuário pesquisado, quantidade de seguidores, seguindo quantos, listar os repositórios públicos e a lista de repositórios com estrela
+
+Aplicativo em React para exibir o perfil do usuário do GitHub
+
+Exibe:
+  - foto
+  - quantidade de seguidores
+  - quantidade de quantos está seguindo
+  - listar os repositórios públicos 
+  - lista de repositórios com estrela
+
